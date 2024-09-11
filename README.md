@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SgtMate
 - 👀 I’m interested in learning about new things, concepts and ideas.
-- 🌱 I’m currently learning microservice and container related stuff.
+- 🌱 I’m currently learning storage, networking and container related stuff.
 - 💞️ I’m looking to collaborate...
 - 📫 How to reach me on, [Mastodon](https://chaos.social/@sgtmate), [Threema](https://threema.id/R8D968BU).
 
